@@ -1,5 +1,3 @@
-import React from "../../../first-static-page/node_modules/@types/react";
-
 export default function Card(props) {
   let badgeText;
   if (props.openSpots === 0) {

@@ -1,4 +1,3 @@
-import React from "../../../first-static-page/node_modules/@types/react";
 import memesData from "../memesData";
 
 export default function Meme() {
